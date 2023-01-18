@@ -14,6 +14,8 @@
       <span class="span-link">Project</span>
       <span class="span-link">Project</span>
        <span class="span-link">Project</span>
+        <span class="span-link">Project</span>
+        <span class="span-link">Project</span>
       </div>
       <div class="nav-profile"></div>
     </div>
